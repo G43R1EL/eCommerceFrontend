@@ -1,0 +1,19 @@
+{
+  "name": "ecommercefrontend",
+  "version": "1.0.0",
+  "description": "Frontend for eCommerceBackend project (Coderhouse)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G43R1EL/eCommerceFrontend.git"
+  },
+  "author": "Nelson Gabriel Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G43R1EL/eCommerceFrontend/issues"
+  },
+  "homepage": "https://github.com/G43R1EL/eCommerceFrontend#readme"
+}
